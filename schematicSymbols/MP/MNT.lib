@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Thu 09 Oct 2014 10:16:11 PM PDT
+EESchema-LIBRARY Version 2.3  Date: Sun 12 Oct 2014 01:48:10 PM PDT
 #encoding utf-8
 #
 # M3_MOUNT_HOLE
@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3  Date: Thu 09 Oct 2014 10:16:11 PM PDT
 DEF ~M3_MOUNT_HOLE MP 0 40 Y Y 1 F N
 F0 "MP" -150 100 60 H V C CNN
 F1 "M3_MOUNT_HOLE" 0 -150 60 H I C CNN
-F2 "~" 0 0 60 H V C CNN
+F2 "M3_HOLE" 0 0 60 H I C CNN
 F3 "~" 0 0 60 H V C CNN
 DRAW
 C -150 0 50 0 1 0 N
