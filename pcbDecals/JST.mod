@@ -3,6 +3,7 @@ PCBNEW-LibModule-V1  Sun 12 Oct 2014 01:35:45 PM PDT
 Units mm
 $INDEX
 ZPD_VERT_12
+ZPD_VERT_20
 $EndINDEX
 $MODULE ZPD_VERT_12
 Po 0 0 0 15 543AE5FF 00000000 ~~
@@ -21,98 +22,265 @@ Sh "1" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 3.125 3.625
+Po 3.75 3.625
 $EndPAD
 $PAD
 Sh "2" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 3.125 -3.625
+Po 3.75 -3.625
 $EndPAD
 $PAD
 Sh "3" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.875 3.625
+Po 2.25 3.625
 $EndPAD
 $PAD
 Sh "4" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.875 -3.625
+Po 2.25 -3.625
 $EndPAD
 $PAD
 Sh "5" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.625 3.625
+Po 0.75 3.625
 $EndPAD
 $PAD
 Sh "6" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.625 -3.625
+Po 0.75 -3.625
 $EndPAD
 $PAD
 Sh "7" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.625 3.625
+Po -0.75 3.625
 $EndPAD
 $PAD
 Sh "8" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.625 -3.625
+Po -0.75 -3.625
 $EndPAD
 $PAD
 Sh "9" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.875 3.625
+Po -2.25 3.625
 $EndPAD
 $PAD
 Sh "10" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.875 -3.625
+Po -2.25 -3.625
 $EndPAD
 $PAD
 Sh "11" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -3.125 3.625
+Po -3.75 3.625
 $EndPAD
 $PAD
 Sh "12" R 0.7 1.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -3.125 -3.625
+Po -3.75 -3.625
 $EndPAD
 $PAD
 Sh "13" R 1 2.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 4.85 2.375
+Po 5.85 2.375
 $EndPAD
 $PAD
 Sh "14" R 1 2.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -4.85 2.375
+Po -5.85 2.375
 $EndPAD
 $EndMODULE ZPD_VERT_12
+$MODULE ZPD_VERT_20
+Po 0 0 0 15 543AE5FF 00000000 ~~
+Li ZPD_VERT_20
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.5 1.524 1.524 0 0.3048 N V 21 N "ZPD_VERT_20"
+T1 0 -6 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DS -9.5 4.5 -9.5 -4.5 0.381 21
+DS -9.5 -4.5 9.5 -4.5 0.381 21
+DS 9.5 -4.5 9.5 4.5 0.381 21
+DS 9.5 4.5 -9.5 4.5 0.381 21
+$PAD
+Sh "1" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 3.625
+$EndPAD
+$PAD
+Sh "2" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 -3.625
+$EndPAD
+$PAD
+Sh "3" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25 3.625
+$EndPAD
+$PAD
+Sh "4" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.25 -3.625
+$EndPAD
+$PAD
+Sh "5" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 3.625
+$EndPAD
+$PAD
+Sh "6" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.75 -3.625
+$EndPAD
+$PAD
+Sh "7" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25 3.625
+$EndPAD
+$PAD
+Sh "8" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25 -3.625
+$EndPAD
+$PAD
+Sh "9" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 3.625
+$EndPAD
+$PAD
+Sh "10" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -3.625
+$EndPAD
+$PAD
+Sh "11" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 3.625
+$EndPAD
+$PAD
+Sh "12" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.75 -3.625
+$EndPAD
+$PAD
+Sh "13" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25 3.625
+$EndPAD
+$PAD
+Sh "14" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25 -3.625
+$EndPAD
+$PAD
+Sh "15" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 3.625
+$EndPAD
+$PAD
+Sh "16" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.75 -3.625
+$EndPAD
+$PAD
+Sh "17" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.25 3.625
+$EndPAD
+$PAD
+Sh "18" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.25 -3.625
+$EndPAD
+$PAD
+Sh "19" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 3.625
+$EndPAD
+$PAD
+Sh "20" R 0.7 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 -3.625
+$EndPAD
+$PAD
+Sh "21" R 1 2.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.85 2.375
+$EndPAD
+$PAD
+Sh "22" R 1 2.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.85 2.375
+$EndPAD
+$EndMODULE ZPD_VERT_20
 $EndLIBRARY
